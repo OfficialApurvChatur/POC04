@@ -77,6 +77,7 @@ Visit Agile Management Board
       direction TB
       Backend["Backend"]
       Frontend["Frontend"]
+      Testing["Testing"]
     end
 
     User --> develop
@@ -154,5 +155,5 @@ Visit Agile Management Board
 
 ### Testing
 - Report
-  - Local: []()
+  - Local: [http://localhost:9323](http://localhost:9323)
   - Live: []()
