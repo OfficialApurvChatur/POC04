@@ -1,3 +1,4 @@
+import "./aConnection/NodeConnection.js";
 import nodeConnection from "./aConnection/NodeConnection.js";
 
 
